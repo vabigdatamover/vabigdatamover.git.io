@@ -1,3 +1,2 @@
 # vabigdatamover.git.io
-Public Web Pages
-HTML Homework
+Git Hub Public Web Page Repo
